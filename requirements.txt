@@ -1,0 +1,29 @@
+# langchain_openai 
+# langchain_core
+# python-dotenv
+# streamlit
+# langchain_community
+# langserve
+# fastapi
+# uvicorn
+# sse_starlette
+# bs4
+# pypdf
+# chromadb
+# faiss-cpu
+# groq
+# cassio
+# beautifulsoup4
+# langchain_groq
+# wikipedia
+# langchain-fireworks
+# arxiv
+# langchainhub
+# langchain
+# langchain_groq
+
+fastapi
+uvicorn
+python-dotenv
+pytest
+pydantic>=2.0.0
